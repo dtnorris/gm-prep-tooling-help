@@ -1,4 +1,4 @@
-# Lazy GM Prep Specification v0.3-draft
+# Lazy GM Prep Specification v0.3
 
 ## 0. Governing Creative-Authorship Policy
 
@@ -391,7 +391,7 @@ If no, omit it.
 
 ## 11. Revision History
 
-### v0.3-draft — August 11, 2026
+### v0.3 — August 11, 2026
 
 Refined the **Governing Creative-Authorship Policy** to make source-grounded prep assistance more operational.
 
@@ -442,7 +442,7 @@ Established:
 
 ## 12. Status
 
-**Version:** 0.3-draft  
+**Version:** 0.3
 **Status:** Working specification  
 **Primary basis:** *Return of the Lazy Dungeon Master* and *The Lazy DM's Companion* by Michael E. Shea.
 
