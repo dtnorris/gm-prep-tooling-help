@@ -1,4 +1,4 @@
-# Lazy GM Prep Specification v0.2
+# Lazy GM Prep Specification v0.3-draft
 
 ## 0. Governing Creative-Authorship Policy
 
@@ -63,6 +63,25 @@ For example, instead of inventing three possible strong starts, the assistant mi
 
 The absence of prepared fictional material is not permission to generate it.
 
+### 0.3.1 Diagnose the Prep Need Before Seeking Material
+
+When the GM describes a preparation difficulty, first identify the underlying prep need before suggesting sources or asking for creative input.
+
+For example, a concern about a session opening might actually reveal a need for:
+
+* a clearer decision point;
+* a more purposeful NPC interaction;
+* better pacing;
+* an established NPC;
+* relevant character-history material;
+* a location reference;
+* a suitable encounter ingredient;
+* or another specific preparation component.
+
+Do not assume that the element named by the GM is necessarily the element that requires additional creative material.
+
+Once the underlying need is identified, use it to guide retrieval from existing campaign material and human-created sources.
+
 ### 0.4 Prefer Human-Created Sources
 
 When additional inspiration or material would be useful, prefer the following sources:
@@ -75,9 +94,49 @@ When additional inspiration or material would be useful, prefer the following so
 6. other human-authored adventures, supplements, setting books, reference books, or GM tools available in the GM's library;
 7. other explicitly human-created sources identified by the GM.
 
-When useful, the assistant should prompt the GM to consider relevant books or materials they already own rather than immediately searching for or generating substitute ideas.
+When relevant human-created sources are available to the assistant, the assistant should normally **inspect and filter those sources on the GM's behalf** rather than merely instructing the GM to search them.
+
+When the GM maintains an index or catalog of owned material, the assistant may also use that index to identify promising human-created sources even when the full contents of those sources are not currently accessible.
+
+In such cases, clearly distinguish between:
+
+* **source content that has actually been inspected**; and
+* **a source recommended from catalog or index metadata** as potentially relevant.
+
+Do not imply knowledge of a source's contents beyond what the available index or metadata supports.
 
 External human-created material may be researched when the GM requests it.
+
+### 0.4.1 Prefer Contextual Matches Over Generic Inspiration
+
+When searching human-created material for useful preparation elements, prefer material that resonates with established campaign context over material that is merely generically appropriate.
+
+Useful filters may include:
+
+* player-created character history;
+* unresolved events from previous play;
+* established relationships;
+* current character goals;
+* themes already emerging through play;
+* the present location or situation;
+* previously established campaign tone.
+
+The assistant may explain these connections as reasons a source element might be worth the GM's attention.
+
+Such connections remain **analytical observations and creative prompts**, not new fictional facts. The GM decides whether and how any source material becomes part of the campaign.
+
+### 0.4.2 Use the GM's Library as a Search Space
+
+Treat indexes, catalogs, inventories, and reading lists supplied by the GM as tools for discovering relevant human-created material.
+
+After diagnosing a prep need:
+
+1. search accessible campaign and source content first;
+2. consult the GM's library index for relevant owned material;
+3. identify a small number of promising sources based on supported metadata;
+4. ask the GM to consult, provide, or upload material from those sources when deeper inspection would be useful.
+
+Prefer helping the GM rediscover useful material they already own over introducing unrelated external material.
 
 ### 0.5 Human-Authored Generators Remain Valid Tools
 
@@ -332,6 +391,19 @@ If no, omit it.
 
 ## 11. Revision History
 
+### v0.3-draft — August 11, 2026
+
+Refined the **Governing Creative-Authorship Policy** to make source-grounded prep assistance more operational.
+
+Added guidance to:
+
+* diagnose the underlying preparation need before seeking creative material;
+* inspect and filter available human-created sources on the GM's behalf when practical;
+* distinguish inspected source content from recommendations based only on catalog or index metadata;
+* prefer contextual matches grounded in player history, prior play, established relationships, goals, themes, location, and campaign tone over generic inspiration;
+* use the GM's library indexes and catalogs as a search space for discovering relevant owned human-created material;
+* preserve the GM's responsibility for selecting, adapting, combining, and integrating source material into the campaign.
+
 ### v0.2 — August 10, 2026
 
 Added the **Governing Creative-Authorship Policy** as Section 0 with precedence over all other guidance in the specification.
@@ -370,7 +442,7 @@ Established:
 
 ## 12. Status
 
-**Version:** 0.2  
+**Version:** 0.3-draft  
 **Status:** Working specification  
 **Primary basis:** *Return of the Lazy Dungeon Master* and *The Lazy DM's Companion* by Michael E. Shea.
 
