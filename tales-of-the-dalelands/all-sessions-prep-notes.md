@@ -224,7 +224,7 @@ Discuss the purpose the Company has for having an audience with Lord Ulath.
 ## Ten secrets they can find out this session
 
 1. Lady Khara Sulwood of Shadowdale seeks help to find a missing family.
-2. Ellarian Dawnhorn of Harrowdale has sent word asking for help w/ Undead.
+2. Octavia Dragon of Harrowdale has sent word asking for help with Undead
 3. Violence between Archendale & Tasseldale — Sembia suspected (actually Hillsfar).
 4. Duncan knows Orc priest Sigora Swordwise to Tempus resides in Scardale Town.
 5. Brune recognizes a rusty dagger w/4 drops of blood is a Stormshiners symbol.
